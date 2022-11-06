@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4195cdec1c8faf44ea540699850edd0c, type: 3}
+  m_Name: DummyDialog2
+  m_EditorClassIdentifier: 
+  characterInfo: {fileID: 11400000, guid: add0646ac0695614c9560eb100ec7de4, type: 2}
+  emotionType: 0
+  message: "\u0E19\u0E35\u0E49\u0E04\u0E37\u0E2D\u0E15\u0E31\u0E27\u0E2D\u0E22\u0E48\u0E32\u0E07
+    dialog \u0E40\u0E09\u0E22\u0E46\u0E44\u0E21\u0E48\u0E21\u0E35\u0E2D\u0E30\u0E44\u0E23\u0E21\u0E32\u0E01
+    \u0E40\u0E23\u0E32\u0E08\u0E30\u0E17\u0E33\u0E43\u0E2B\u0E49\u0E14\u0E39\u0E27\u0E48\u0E32
+    conversation \u0E17\u0E35\u0E48\u0E04\u0E38\u0E22\u0E01\u0E31\u0E19 \u0E19\u0E31\u0E49\u0E19\u0E2A\u0E21\u0E08\u0E23\u0E34\u0E07
+    \u0E44\u0E21\u0E48\u0E21\u0E35\u0E2D\u0E30\u0E44\u0E23\u0E2B\u0E23\u0E2D\u0E01"

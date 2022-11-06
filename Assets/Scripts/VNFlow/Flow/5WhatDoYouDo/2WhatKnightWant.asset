@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78ddd420d138d954da07928f0ae80cd2, type: 3}
+  m_Name: 2WhatKnightWant
+  m_EditorClassIdentifier: 
+  choices:
+  - choiceTxt: "\u0E01\u0E39\u0E02\u0E2D\u0E40\u0E1B\u0E47\u0E19\u0E25\u0E34\u0E07\u0E14\u0E35\u0E01\u0E27\u0E48\u0E32
+      \u0E2D\u0E38 \u0E2D\u0E30 \u0E2D\u0E38 \u0E2D\u0E30"
+    flowAction: {fileID: 11400000, guid: 4008bed231d685045bd2ef72344ef169, type: 2}
+  - choiceTxt: "\u0E02\u0E49\u0E32\u0E2D\u0E22\u0E32\u0E01\u0E42\u0E15\u0E44\u0E1B\u0E40\u0E1B\u0E47\u0E19\u0E2D\u0E31\u0E28\u0E27\u0E34\u0E19\u0E02\u0E2D\u0E07\u0E2E\u0E32\u0E13\u0E32\u0E08\u0E31\u0E01\u0E23\u0E19\u0E35\u0E49\u0E02\u0E2D\u0E23\u0E31\u0E1A"
+    flowAction: {fileID: 11400000, guid: bd8ba51156cb8084db2ec596086bad8e, type: 2}

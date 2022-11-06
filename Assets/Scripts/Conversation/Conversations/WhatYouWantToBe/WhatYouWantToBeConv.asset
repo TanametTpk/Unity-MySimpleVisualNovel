@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09e584c558807014b85a0aaf0c803131, type: 3}
+  m_Name: WhatYouWantToBeConv
+  m_EditorClassIdentifier: 
+  dialogs:
+  - {fileID: 11400000, guid: afb7a23864954a44aa1c55fd8c80929b, type: 2}
+  - {fileID: 11400000, guid: e51a6dc7d9880d74e873dd7ce9e78391, type: 2}
+  - {fileID: 11400000, guid: 5ea706bf5c7552244a94fd1d2e87c009, type: 2}
+  - {fileID: 11400000, guid: 69f0f0f7e89930441aae2dd447334fa0, type: 2}

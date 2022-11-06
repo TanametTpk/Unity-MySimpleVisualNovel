@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4195cdec1c8faf44ea540699850edd0c, type: 3}
+  m_Name: Dad5
+  m_EditorClassIdentifier: 
+  characterInfo: {fileID: 11400000, guid: 0a06b1ee839b43045ab04ba9ddf0bd36, type: 2}
+  emotionType: 0
+  message: "\u0E02\u0E49\u0E32\u0E01\u0E47\u0E44\u0E21\u0E48\u0E2D\u0E22\u0E32\u0E01\u0E08\u0E30\u0E40\u0E0A\u0E37\u0E48\u0E2D\u0E27\u0E48\u0E32\u0E40\u0E08\u0E49\u0E32\u0E08\u0E30\u0E17\u0E33\u0E15\u0E32\u0E21\u0E2A\u0E31\u0E0D\u0E0D\u0E32\u0E19\u0E31\u0E49\u0E19\u0E21\u0E32\u0E19\u0E32\u0E19\u0E16\u0E36\u0E07
+    30 \u0E1B\u0E35\u0E25\u0E30\u0E19\u0E30 \u0E2E\u0E48\u0E32\u0E46\u0E46\u0E46"
+  isShowCharacterImage: 1
+  overlayColor: {r: 1, g: 1, b: 1, a: 0}

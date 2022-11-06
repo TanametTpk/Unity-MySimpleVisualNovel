@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09e584c558807014b85a0aaf0c803131, type: 3}
+  m_Name: IntroConversation
+  m_EditorClassIdentifier: 
+  dialogs:
+  - {fileID: 11400000, guid: ecea34668881b4f4aadc03b977bf6dd3, type: 2}
+  - {fileID: 11400000, guid: 95e6d5bcab733fe49b3e4b8610fba7e0, type: 2}
+  - {fileID: 11400000, guid: d595027070faa0b4487dc43c2144edb2, type: 2}
+  - {fileID: 11400000, guid: 71c7eec69986d384995e31835091cce4, type: 2}
+  - {fileID: 11400000, guid: 634c69e06e54cc24e9e0b3fb8bce41da, type: 2}
+  - {fileID: 11400000, guid: 8d9eed3aa1e4d964097fc89132c9c1d2, type: 2}
+  - {fileID: 11400000, guid: 77ec8724ec95e4a48bd667422d1788f7, type: 2}
+  - {fileID: 11400000, guid: a0dd2e8c20943bc4a93951192044b012, type: 2}
+  - {fileID: 11400000, guid: e4f9279281b28344bb3b0772a91d1e7e, type: 2}
